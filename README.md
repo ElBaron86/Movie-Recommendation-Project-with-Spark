@@ -11,7 +11,6 @@ This academic project aims to implement a movie recommendation system using Apac
 - **images**: Directory containing graphs of the data exploration results.
 - **logs**: Directory containing log files.
   - `recommendations.log`: Log file containing the results of using the recommendation model.
-- **report**: Directory containing the project report.
 - **src**: Directory containing the source code.
   - `make_recommendation.py`: Python script to generate movie recommendations.
   - `als_model`: Folder containing the trained ALS model.
