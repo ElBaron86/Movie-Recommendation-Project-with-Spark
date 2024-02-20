@@ -1,0 +1,11 @@
+20-Feb-24 02:00:50 - Data correctly loaded.
+20-Feb-24 02:00:51 - Model successfully loaded
+20-Feb-24 02:01:43 - *****|*****|*****
+20-Feb-24 02:01:43 - List of 5 movies recommended for use_id : 471 : 
+20-Feb-24 02:01:43 - 	 1. Title: I Am David (2003), Genres: Drama
+20-Feb-24 02:01:43 - 	 2. Title: Twelve Angry Men (1954), Genres: Drama
+20-Feb-24 02:01:43 - 	 3. Title: Babylon 5: The Lost Tales - Voices in the Dark (2007), Genres: Sci-Fi
+20-Feb-24 02:01:43 - 	 4. Title: How to Train Your Dragon: The Hidden World (2019), Genres: Adventure|Animation|Children
+20-Feb-24 02:01:43 - 	 5. Title: Harry Potter and the Deathly Hallows: Part 1 (2010), Genres: Action|Adventure|Fantasy|IMAX
+20-Feb-24 02:01:43 - *****|*****|*****
+20-Feb-24 02:01:43 - Closing down clientserver connection

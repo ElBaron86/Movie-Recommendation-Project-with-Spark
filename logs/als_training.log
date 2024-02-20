@@ -1,0 +1,10 @@
+12-Feb-24 23:59:21 - Data correctly loaded.
+12-Feb-24 23:59:22 - Data splited in train (with ratio 0.8) and test (with ratio 0.2)
+12-Feb-24 23:59:22 - ### ALS model training... ###
+13-Feb-24 00:05:51 - Closing down clientserver connection
+13-Feb-24 00:05:51 - Closing down clientserver connection
+13-Feb-24 00:05:51 - ### Training finished. Took 388.788494348526 seconds ###
+13-Feb-24 00:05:51 - ### Evaluating in test split ###
+13-Feb-24 00:06:30 - ### Root Mean Squared Error (RMSE) on test data = 0.8310854250235925 ###
+13-Feb-24 00:06:33 - Model successfully saved !
+13-Feb-24 00:06:34 - Closing down clientserver connection

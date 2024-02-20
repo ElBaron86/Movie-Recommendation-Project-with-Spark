@@ -1,0 +1,17 @@
+06-Feb-24 22:58:18 - Generating movies genres diagram
+06-févr.-24 22:58:38 - Generating ratings histogram
+06-févr.-24 22:58:51 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+06-févr.-24 22:58:51 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+06-févr.-24 22:58:51 - Generating movies ranking diagram
+06-févr.-24 22:59:09 - Generating series of movies genres average rate
+06-févr.-24 22:59:35 - Generating avg rate vs n_votes
+06-févr.-24 22:59:49 - Closing down clientserver connection
+07-Feb-24 15:11:16 - Generating movies genres diagram
+07-févr.-24 15:11:33 - No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+07-févr.-24 15:11:33 - Generating ratings histogram
+07-févr.-24 15:11:47 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+07-févr.-24 15:11:47 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+07-févr.-24 15:11:47 - Generating movies ranking diagram
+07-févr.-24 15:12:04 - Generating series of movies genres average rate
+07-févr.-24 15:12:28 - Generating avg rate vs n_votes
+07-févr.-24 15:12:40 - Closing down clientserver connection
